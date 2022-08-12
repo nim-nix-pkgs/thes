@@ -65,7 +65,7 @@
         "cligen": "cligen",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-thes-main": "src-thes-main"
+        "src-thes-0_3_0": "src-thes-0_3_0"
       }
     },
     "src-cligen-v1_5_27": {
@@ -85,7 +85,7 @@
         "type": "github"
       }
     },
-    "src-thes-main": {
+    "src-thes-0_3_0": {
       "flake": false,
       "locked": {
         "lastModified": 1659723147,
@@ -97,7 +97,7 @@
       },
       "original": {
         "owner": "c-blake",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/0.3.0",
         "repo": "thes",
         "type": "github"
       }
